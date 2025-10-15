@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
-this a test
+things are not working
