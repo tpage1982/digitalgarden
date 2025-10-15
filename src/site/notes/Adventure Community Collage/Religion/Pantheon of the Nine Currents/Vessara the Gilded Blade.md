@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/adventure-community-collage/religion/pantheon-of-the-nine-currents/vessara-the-gilded-blade/"}
+{"dg-publish":true,"permalink":"/adventure-community-collage/religion/pantheon-of-the-nine-currents/vessara-the-gilded-blade/","tags":["gardenEntry"]}
 ---
 
 
