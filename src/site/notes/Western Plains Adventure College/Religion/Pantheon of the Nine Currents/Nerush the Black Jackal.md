@@ -22,3 +22,5 @@ A cloaked figure of starlit shadow, always at the edge of vision.
 **Favored Weapon:** Curved dagger or obsidian staff
 
 **Servitors:** Shade guides, grave-lights, spectral jackals
+
+
